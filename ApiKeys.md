@@ -1,3 +1,0 @@
-# TVDB
-- 0dc4b26f-52e3-4c66-ab76-8720aaf7c177
-- f8e162fe-0455-4b60-95df-ecab925e15d6
